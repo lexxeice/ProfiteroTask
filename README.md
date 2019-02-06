@@ -2,6 +2,12 @@
 ```
 ruby TaskProfitero.rb "URL" "File name"
 ```
+### Startup example
+![](https://github.com/lexxeice/ProfiteroTask/blob/master/StartupExample/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202019-02-06%2020-12-46.png)
+![](https://github.com/lexxeice/ProfiteroTask/blob/master/StartupExample/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202019-02-06%2020-27-08.png)
+![](https://github.com/lexxeice/ProfiteroTask/blob/master/StartupExample/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202019-02-06%2020-29-26.png)
+![](https://github.com/lexxeice/ProfiteroTask/blob/master/StartupExample/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202019-02-06%2020-29-35.png)
+
 # Теоретические вопросы
 
 ## Блок Q1
